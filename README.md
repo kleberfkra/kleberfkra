@@ -33,7 +33,7 @@
       </ul>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleberfkra&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width="90%" alt="Top Linguagens" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kleberfkra&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117" width="90%" alt="Top Linguagens" />
     </td>
   </tr>
 </table>
@@ -71,7 +71,7 @@
 <table align="center" width="100%" style="border: none;">
   <tr style="border: none;">
     <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=kleberfkra&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&count_private=true" width="100%" alt="Estatísticas do GitHub" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=kleberfkra&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0D1117&count_private=true" width="100%" alt="Estatísticas do GitHub" />
     </td>
     <td align="center" width="50%" style="border: none;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=kleberfkra&theme=vision-friendly-dark&hide_border=true&background=0D1117" width="100%" alt="Dias seguidos de código" />
