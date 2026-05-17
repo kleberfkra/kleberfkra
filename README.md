@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=250&section=header&text=Ol%C3%A1%2C%20sou%20Kleber%20Rodrigues%21%20%F0%9F%91%8B&fontSize=40&fontAlignY=38&desc=Gerente%20de%20Equipe%20CoE%20Agilidade%20%7C%20Agile%20%26%20Kanban%20Coach&descAlignY=55&descSize=20&animation=twinkling" width="100%" alt="Banner Kleber Rodrigues" />
-</div>
+
 
 <h3 align="center">
   🚀 Transformando cultura, otimizando fluxos e elevando o potencial das equipes no Banco do Brasil
