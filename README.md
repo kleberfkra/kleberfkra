@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=250&section=header&text=Olá,%20sou%20Kleber%20Rodrigues!%20👋&fontSize=40&fontAlignY=38&desc=Gerente%20de%20Equipe%20CoE%20Agilidade%20%7C%20Agile%20%26%20Kanban%20Coach&descAlignY=55&descSize=20&animation=twinkling" width="100%" alt="Banner Kleber Rodrigues" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0052CC&amp;height=250&amp;section=header&amp;text=Ol%C3%A1%2C%20sou%20Kleber%20Rodrigues%21%20%F0%9F%91%8B&amp;fontSize=40&amp;fontAlignY=38&amp;desc=Gerente%20de%20Equipe%20CoE%20Agilidade%20%7C%20Agile%20%26%20Kanban%20Coach&amp;descAlignY=55&amp;descSize=20&amp;animation=twinkling" width="100%" alt="Banner Kleber Rodrigues" />
 </div>
 
 <h3 align="center">
